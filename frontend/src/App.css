@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@200;400;700;800&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body, html, #root{
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  background-color: #C9FFEB;
+  color: #C9FFEB;
+  display: flex;
+  font-family: 'Spectral SC', Arial, Helvetica, sans-serif;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App{
+  background-color: #34413C;
+  height: 95vh;
+  width: 98vw;
+  border-radius: 10px;
+}
+
+.App img{
+  height: 240px;
+}
+
+.App  #s01{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.App  #s02{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.App  #l01{
+  position: absolute;
+  right: 55px;
+  top: 5px;
+}
+
+.App  #l02{
+  position: absolute;
+  left: 55px;
+  bottom: 5px;
+}
