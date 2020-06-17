@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Nutricell/frontend/blob/master/src/assets/logo.png?raw=true" width="100" height="100" /> <br />
+  <img src="https://github.com/joojscript/Nutricell/blob/master/mobile/assets/interface-assets/logo.png?raw=true" width="100" height="100" /> <br />
   Nutricell
 </h1>
 
