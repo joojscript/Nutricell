@@ -9,6 +9,8 @@ Nutricell is a project created to facilitate people's access to healthy eating t
 
 ❗ **Important Disclaimer:** The interface in the prints below are all in Brazilian Portugese, the first language Nutricell was developed, but since 22/05/2020 it already supports English language (by default).
 
+❔ **Portuguese Speaker?** If you want to. There's a full version of this document available in Brazilian Portuguese, which you can find [here](https://github.com/joojscript/Nutricell/blob/master/README-pt-br.md).
+
 ------------
 
 ## ⚙ Platform
