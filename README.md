@@ -45,11 +45,11 @@ Only users registered as administrators in the system are able to have their log
 Aimed at the general public, the application allows you to register as a user, giving your name, weight, age, height, email and password. And in addition to all this data it is also possible to inform if you have any type of disease that restricts the user from consuming any type of food (like diabetes, hypertension or lactose intolerance). So the system will be smart enough to shield these foods.
 
 <h1 align="center">
-<img src="https://github.com/Nutricell/frontend/blob/master/git-files/mobile-home.png?raw=true" />
+<img src="https://github.com/joojscript/Nutricell/blob/master/frontend/git-files/mobile-home.png?raw=true" />
 
-  <img src="https://github.com/Nutricell/frontend/blob/master/git-files/mobile-login.png?raw=true" />
+  <img src="https://github.com/joojscript/Nutricell/blob/master/frontend/git-files/mobile-login.png?raw=true" />
   
-  <img src="https://github.com/Nutricell/frontend/blob/master/git-files/mobile-register.png?raw=true"  />
+  <img src="https://github.com/joojscript/Nutricell/blob/master/frontend/git-files/mobile-register.png?raw=true"  />
  </h1>
 
 ## :rocket: Technologies
