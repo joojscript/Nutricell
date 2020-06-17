@@ -3,8 +3,6 @@
   Nutricell
 </h1>
 
-![](https://img.shields.io/badge/Author-Jo%C3%A3o%20Augusto%20Perin-blue)
-
 ## 💻 Project
 
 Nutricell is a project created to facilitate people's access to healthy eating tips, the idea is to create a dynamic and safe platform for everyone who wants to have a better life quality without radically changing their routine.
