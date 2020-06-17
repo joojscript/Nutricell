@@ -7,7 +7,7 @@
 
 Nutricell é um projeto criado com o intuito de facilitar o acesso à dicas para uma alimentação saudável. A ideia é criar uma plataforma dinâmica e segura para todos que desejam ter uma maior qualidade de vida sem mudar radicalmente sua rotina.
 
-👨‍🎓 **Success:** Este projeto foi aceito pela banca do *Final Project* do (*Harvard's CS50x*)[https://certificates.cs50.io/bb6f876e-11de-4881-860b-b82df0be92a9.pdf?size=letter].
+👨‍🎓 **Success:** Este projeto foi aceito pela banca do *Final Project* do [*Harvard's CS50x*](https://certificates.cs50.io/bb6f876e-11de-4881-860b-b82df0be92a9.pdf?size=letter).
 
 ------------
 
