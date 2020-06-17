@@ -11,6 +11,8 @@ Nutricell is a project created to facilitate people's access to healthy eating t
 
 ❔ **Portuguese Speaker?** If you want to. There's a full version of this document available in Brazilian Portuguese, which you can find [here](https://github.com/joojscript/Nutricell/blob/master/README-pt-br.md).
 
+👨‍🎓 **Success:** This project was accepted for the jury of *Final Project* from [*Harvard's CS50x*](https://certificates.cs50.io/bb6f876e-11de-4881-860b-b82df0be92a9.pdf?size=letter).
+
 ------------
 
 ## ⚙ Platform
