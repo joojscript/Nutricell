@@ -29,7 +29,7 @@ Only users registered as administrators in the system are able to have their log
 
 
 <h1 align="center">
-<img src="https://github.com/Nutricell/frontend/blob/master/git-files/desktop-home.png?raw=true" width="600" height="450" />
+<img src="https://github.com/joojscript/Nutricell/frontend/blob/master/git-files/desktop-home.png?raw=true" width="600" height="450" />
 
   <img src="https://github.com/Nutricell/frontend/blob/master/git-files/desktop-list.png?raw=true" width="600" height="450" />
   
